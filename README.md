@@ -1,4 +1,4 @@
-Delft implemented a cool online visitor permit reservation system. Which is great! 
+Delft implemented a cool online visitor permit reservation system some years ago. Which is great! 
 
 https://vergunningen.parkerendelft.com/
 
